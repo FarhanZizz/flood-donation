@@ -3,6 +3,7 @@ body{
     margin: 0;
     padding: 0;
 }
+/* COMMON STYLES */
 .common-btn{
     display:inline-block;
     margin: 0 auto;
@@ -26,6 +27,14 @@ body{
 .common-p{
     font-size: 20px;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    width: 80%;
+    margin: auto;
+}
+/* HEADER SECTION */
 .header{
     background: url(../images/donation.jpg);
     background-repeat: no-repeat;
@@ -45,16 +54,10 @@ body{
 .heading-p{
     font-size: 20px;
 }
+/* DONATION SECTION */
 .donation-secton{
     text-align: center;
     margin-bottom: 50px;
-    width: 80%;
-    margin: auto;
-}
-.flex{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 60px;
     width: 80%;
     margin: auto;
 }
@@ -79,6 +82,7 @@ body{
     border-bottom: 1px solid gray;
     margin-bottom: 40px;
 }
+/* DONATION PLAN */
 .donate-item-1{
     background-color: #ebf5f6;
     padding: 40px 20px;
@@ -100,6 +104,7 @@ body{
 .donate-plan{
     margin-bottom: 50px;
 }
+/* VOLUNTEER SECTION */
 .volunteer-section{
     background: url(../images/volunteer-page.jpg);
     background-repeat: no-repeat;
@@ -114,6 +119,7 @@ body{
     width: 70%;
     margin: auto;
 }
+/* NEWSLETTER SECTION */
 .newsletter-input{
     width: 50%;
     margin: auto;
@@ -127,6 +133,7 @@ body{
     background-color: #d9d9d9;
     border: none;
 }
+/* FOOTER */
 footer{
     background-color: black;
     padding: 50px;
