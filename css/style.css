@@ -27,7 +27,7 @@ body{
     font-size: 20px;
 }
 .header{
-    background-image: url(/images/donation.jpg);
+    background: url(../images/donation.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
@@ -101,7 +101,7 @@ body{
     margin-bottom: 50px;
 }
 .volunteer-section{
-    background-image: url(/images/volunteer-page.jpg);
+    background: url(../images/volunteer-page.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
