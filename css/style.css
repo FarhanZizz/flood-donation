@@ -36,11 +36,11 @@ body{
 }
 /* HEADER SECTION */
 .header{
-    background: url(../images/donation.jpg);
+    background: url(../images/Header.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .header-items{
     padding: 240px;
@@ -60,13 +60,14 @@ body{
     margin-bottom: 50px;
     width: 80%;
     margin: auto;
+    margin-bottom: 120px;
 }
 .donation-amount{
     text-align: center;
     margin: 0px 20px;
     padding: 10px 20px;
     background-color: #f8f8f8;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
     width: 100%;
 }
 .box-2{
@@ -80,7 +81,7 @@ body{
     margin: 0 auto;
     border: none;
     border-bottom: 1px solid gray;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 }
 /* DONATION PLAN */
 .donate-item-1{
@@ -102,16 +103,16 @@ body{
     width: 100%;
 }
 .donate-plan{
-    margin-bottom: 50px;
+    margin-bottom: 120px;
 }
 /* VOLUNTEER SECTION */
 .volunteer-section{
-    background: url(../images/volunteer-page.jpg);
+    background: url(../images/Volunteer.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-size: cover;
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
     padding: 45px;
     color: white;
 }
@@ -126,7 +127,7 @@ body{
     text-align: center;
     padding: 60px;
     background-color: #fff4d6;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 }
 .newsletter-input input{
     padding: 20px 30px;
