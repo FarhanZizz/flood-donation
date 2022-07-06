@@ -1,0 +1,139 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.common-btn{
+    display:inline-block;
+    margin: 0 auto;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(256,76,76);
+    padding: 15px 25px;
+    border-radius: 5px;
+}
+.text-section{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.common-h1{
+    font-size: 40px;
+}
+.common-h1 span{
+    color: rgb(256,76,76);
+}
+.common-p{
+    font-size: 20px;
+}
+.header{
+    background-image: url(/images/donation.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.header-items{
+    padding: 240px;
+    padding-top: 120px;
+    color: white;
+}
+.heading-h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+.heading-p{
+    font-size: 20px;
+}
+.donation-secton{
+    text-align: center;
+    margin-bottom: 50px;
+    width: 80%;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    width: 80%;
+    margin: auto;
+}
+.donation-amount{
+    text-align: center;
+    margin: 0px 20px;
+    padding: 10px 20px;
+    background-color: #f8f8f8;
+    margin-bottom: 40px;
+    width: 100%;
+}
+.box-2{
+    background: #ffecec;
+    border: 2px solid rgb(256,76,76);
+}
+.donation-input{
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 40px;
+}
+.donate-item-1{
+    background-color: #ebf5f6;
+    padding: 40px 20px;
+    margin: 20px;
+    width: 100%;
+}
+.donate-item-2{
+    background-color: #ffeded;
+    padding: 40px 20px;
+    margin: 20px;
+    width: 100%;
+}
+.donate-item-3{
+    background-color: #fff4d6;
+    padding: 40px 20px;
+    margin: 20px;
+    width: 100%;
+}
+.donate-plan{
+    margin-bottom: 50px;
+}
+.volunteer-section{
+    background-image: url(/images/volunteer-page.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 100px;
+    padding: 45px;
+    color: white;
+}
+.volunteer-items{
+    width: 70%;
+    margin: auto;
+}
+.newsletter-input{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 60px;
+    background-color: #fff4d6;
+    margin-bottom: 100px;
+}
+.newsletter-input input{
+    padding: 20px 30px;
+    background-color: #d9d9d9;
+    border: none;
+}
+footer{
+    background-color: black;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+.footer-text{
+    font-family: 'Pacifico', cursive;
+    color: rgb(256,76,76);
+}
